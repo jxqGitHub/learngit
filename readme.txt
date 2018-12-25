@@ -3,4 +3,4 @@ Git is free software.
 My name is xiaoqiang jiang .
 change line 4.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
