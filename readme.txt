@@ -1,5 +1,5 @@
 Git is a vision control system.
-Git is free software.
+Git is a free software.
 My name is xiaoqiang jiang .
 change line 4.
 Git has a mutable index called stage.
